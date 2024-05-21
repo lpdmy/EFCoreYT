@@ -1,0 +1,12 @@
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\bin\Debug\net8.0\EntityFrameworkCore.Domain.deps.json
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\bin\Debug\net8.0\EntityFrameworkCore.Domain.dll
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\bin\Debug\net8.0\EntityFrameworkCore.Domain.pdb
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\obj\Debug\net8.0\EntityFrameworkCore.Domain.csproj.AssemblyReference.cache
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\obj\Debug\net8.0\EntityFrameworkCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\obj\Debug\net8.0\EntityFrameworkCore.Domain.AssemblyInfoInputs.cache
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\obj\Debug\net8.0\EntityFrameworkCore.Domain.AssemblyInfo.cs
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\obj\Debug\net8.0\EntityFrameworkCore.Domain.csproj.CoreCompileInputs.cache
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\obj\Debug\net8.0\EntityFrameworkCore.Domain.dll
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\obj\Debug\net8.0\refint\EntityFrameworkCore.Domain.dll
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\obj\Debug\net8.0\EntityFrameworkCore.Domain.pdb
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Domain\obj\Debug\net8.0\ref\EntityFrameworkCore.Domain.dll

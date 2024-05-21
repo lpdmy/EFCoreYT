@@ -1,0 +1,17 @@
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\bin\Debug\net8.0\EntityFrameworkCore.Data.deps.json
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\bin\Debug\net8.0\EntityFrameworkCore.Data.runtimeconfig.json
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\bin\Debug\net8.0\EntityFrameworkCore.Data.dll
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\bin\Debug\net8.0\EntityFrameworkCore.Data.pdb
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\bin\Debug\net8.0\EntityFrameworkCore.Domain.dll
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\bin\Debug\net8.0\EntityFrameworkCore.Domain.pdb
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\obj\Debug\net8.0\EntityFrameworkCore.Data.csproj.AssemblyReference.cache
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\obj\Debug\net8.0\EntityFrameworkCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\obj\Debug\net8.0\EntityFrameworkCore.Data.AssemblyInfoInputs.cache
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\obj\Debug\net8.0\EntityFrameworkCore.Data.AssemblyInfo.cs
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\obj\Debug\net8.0\EntityFrameworkCore.Data.csproj.CoreCompileInputs.cache
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\obj\Debug\net8.0\EntityFr.5ED7C83B.Up2Date
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\obj\Debug\net8.0\EntityFrameworkCore.Data.dll
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\obj\Debug\net8.0\refint\EntityFrameworkCore.Data.dll
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\obj\Debug\net8.0\EntityFrameworkCore.Data.pdb
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\obj\Debug\net8.0\EntityFrameworkCore.Data.genruntimeconfig.cache
+D:\STUDY\SU24\TuHoc\EFCoreYT\EntityFrameworkCore.Data\obj\Debug\net8.0\ref\EntityFrameworkCore.Data.dll
